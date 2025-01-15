@@ -18,7 +18,7 @@ This is a simple dungeon crawler game written in C++ where the player navigates 
    To get started, clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/dungeon-crawler.git
+   git clone https://github.com/marklourenco/dungeon-crawler.git
    ```
 
 2. **Requirements**: 
